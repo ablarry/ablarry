@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h3> How to reach me </h3>
+<div>
+    <a href="https://mx.linkedin.com/in/abraham-larrazolo-barrera" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+    </a>&nbsp  
+</div>
+
 <!--
 **ablarry/ablarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
